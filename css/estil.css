@@ -2,3 +2,15 @@
 margin:0;
 padding:0;
 }
+
+.titol{
+background-color: blue;
+}
+
+.articles{
+background-color: red;
+}
+
+.footer{
+background-color: green;
+}
